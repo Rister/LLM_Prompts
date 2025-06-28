@@ -41,3 +41,7 @@ Below is a list of the AI agent personas currently available in this collection.
 The following `.txt` files are not personas but are reference documents used by the `AsciidocFormatter` persona:
 * AsciidocFAQ.txt
 * AsciidocGuide.txt
+
+## License
+
+This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. See the [LICENSE](LICENSE) file for details.
