@@ -1,5 +1,7 @@
 # AI Agent Persona Collection
 
+[![Project Status: Active](https://img.shields.io/badge/Project%20Status-Active-green.svg)](https://shields.io/) [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat-square)](https://shields.io/)
+
 This repository is a collection of system prompts designed to define the personas and behaviors of various AI agents.
 
 ## What is a System Prompt?
@@ -41,3 +43,9 @@ Below is a list of the AI agent personas currently available in this collection.
 The following `.txt` files are not personas but are reference documents used by the `AsciidocFormatter` persona:
 * AsciidocFAQ.txt
 * AsciidocGuide.txt
+
+## License
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. See the [LICENSE](LICENSE) file for details.
