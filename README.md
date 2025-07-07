@@ -12,11 +12,19 @@ A system prompt is a set of instructions or guidelines given to an AI model at t
 
 Below is a list of the AI agent personas currently available in this collection. Each persona's main prompt file is an `.md` file. Associated utility prompts or reference documents are listed with their respective personas.
 
+**Categories:**
+*   [Writing & Content Creation](#writing--content-creation)
+*   [Analysis & Data Structuring](#analysis--data-structuring)
+*   [Technical & Formatting](#technical--formatting)
+*   [Humor, Satire & Esoterica](#humor-satire--esoterica)
+*   [Specialized Expertise](#specialized-expertise)
+
 ### Writing & Content Creation
 *(Directory: `Writing_and_Content_Creation/`)*
 
 *   **Aetheria**: An AI fiction muse and idea catalyst for writers. (Files: `Aetheria/Aetheria.md`, `Aetheria/Aetheria_ContextHandoff.md`)
     *   `Aetheria_ContextHandoff`: Creates a "Story So Far" document to seamlessly continue brainstorming sessions.
+*   **CaptainCabbage**: A family-friendly storyteller AI that facilitates interactive choose-your-own-adventure narratives based on user-provided themes. (File: `CaptainCabbage.md`)
 *   **CareerCraft**: An expert resume coach and writing partner that guides users through creating and optimizing their resumes. (File: `CareerCraft.md`)
 *   **KnowledgeWeaver**: A writing assistant for non-fiction that helps users brainstorm, outline, and develop a specific book concept. (File: `KnowledgeWeaver.md`)
 *   **OutlineOracle**: A witty and wise outlining assistant for creative fiction that helps users plan and structure their novels. (File: `OutlineOracle.md`)
@@ -40,7 +48,7 @@ Below is a list of the AI agent personas currently available in this collection.
 ### Technical & Formatting
 *(Directory: `Technical_and_Formatting/`)*
 
-*   **AsciidocFormatter**: A technical editor specializing in correcting formatting and structural errors in AsciiDoc documents, particularly those exported from Pandoc. (Files: `Asciidoc/AsciidocFormatter.md`, `Asciidoc/AsciidocFAQ.txt`, `Asciidoc/AsciidocGuide.txt`)
+*   **AsciidocFormatter**: A technical editor specializing in correcting formatting and structural errors in AsciiDoc documents, particularly those exported from Pandoc. (Files: `AsciidocFormatter/AsciidocFormatter.md`, `AsciidocFormatter/AsciidocFAQ.txt`, `AsciidocFormatter/AsciidocGuide.txt`)
     *   Utilizes `AsciidocFAQ.txt` and `AsciidocGuide.txt` as essential reference documents. These are not personas themselves.
 *   **PromptWhisperer**: An analytical and insightful AI assistant that translates a user's expressed intent into a fully optimized, standalone utility prompt for a specific third-party AI persona. (File: `PromptWhisperer.md`)
 *   **Rodney**: An AI assistant with a redneck persona that engages in rambling, tangential conversations to infer the necessary details for constructing a system prompt for a new AI agent. (File: `Rodney.md`)
@@ -61,6 +69,8 @@ Below is a list of the AI agent personas currently available in this collection.
     *   `Concept-Connector_SubjectReport`: Generates a comprehensive 'Subject Report' on the convoluted causal relationships between topics discussed.
 *   **ConspiracyDan**: An AI entity that operates from a worldview of profound and pervasive suspicion, generating novel conspiracy theories about any subject. (File: `ConspiracyDan.md`)
 *   **DrFictionalis**: A helpful academic librarian who generates plausible-sounding, yet ultimately absurd, academic references in BibLaTeX format. (File: `DrFictionalis.md`)
+*   **PeterC**: An AI with an irritable, cynical, and nihilistic persona, delivering scathingly humorous and aggressively witty critiques of ideas and concepts. (File: `PeterC.md`)
+*   **PeterS**: Similar to Peter C, an AI with a cynical and nihilistic persona, but employs caustic dirty jokes and "yo mama" jokes in its aggressive critiques. (File: `PeterS.md`)
 
 ### Specialized Expertise
 *(Directory: `Specialized_Expertise/`)*
@@ -72,6 +82,7 @@ Below is a list of the AI agent personas currently available in this collection.
 *   **LexiconAI**: A specialized linguistic agent that provides comprehensive, dictionary-style entries for any given term, including technobabble. (File: `LexiconAI.md`)
 *   **Pastor**: A caring pastor with profound spiritual and intellectual depth, providing guidance, support, and theological insight rooted in a robust biblical framework. (Files: `Pastor/Pastor.md`, `Pastor/Pastor_StudyReport.md`)
     *   `Pastor_StudyReport`: Provides a comprehensive and meticulously detailed report of a discussion, formatted as a structured Bible study outline.
+*   **TeacherTammy**: An enthusiastic and eccentric AI tutor who educates users on chosen topics through immersive, choose-your-own-adventure style storytelling, suitable for a 4th-grade level. (File: `TeacherTammy.md`)
 
 ## License
 
