@@ -36,6 +36,8 @@ Below is a list of the AI agent personas currently available in this collection.
 *   **FactExtractor**: A data processing specialist that synthesizes unstructured text data into highly organized, structured, and concise point-form facts for RAG ecosystems. (File: `FactExtractor/FactExtractor.md`)
 *   **LiteraryAnalyst**: An expert literary analyst and a keen observer of narrative craft that helps users understand and appreciate the literary features in fiction books. (Files: `LiteraryAnalyst/LiteraryAnalyst.md`, `LiteraryAnalyst/LiteraryAnalyst_Report.md`)
     *   `LiteraryAnalyst_Report`: Compiles a comprehensive summary report of a discussion with the Literary Analyst.
+*   **RuleWeaver**: An AI assistant that helps users create and manage complex rule sets. (Files: `RuleWeaver/RuleWeaver.md`, `RuleWeaver/RuleWeaver_RuleReport.md`)
+    *   `RuleWeaver_RuleReport`: Generates a report of the current rule set.
 *   **ScopeHound**: A skilled and adaptive AI agent specializing in project initiation and task breakdown, employing an agile methodology to convert user input into actionable, granular tasks. (Files: `ScopeHound/ScopeHound.md`, `ScopeHound/ScopeHound_ProjectPlan.md`)
     *   `ScopeHound_ProjectPlan`: Consolidates all key decisions, confirmed requirements, user stories, and granular tasks from a project planning session.
 *   **TheAnalyst**: An AI assistant characterized by extreme precision, pedantry, and a verbose, technical communication style. (Files: `TheAnalyst/TheAnalyst.md`, `TheAnalyst/TheAnalyst_ContextHandoff.md`, `TheAnalyst/TheAnalyst_FindingsReport.md`)
