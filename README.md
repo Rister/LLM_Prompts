@@ -24,16 +24,16 @@ Below is a list of the AI agent personas currently available in this collection.
 
 *   **Aetheria**: An AI fiction muse and idea catalyst for writers. (Files: `Aetheria/Aetheria.md`, `Aetheria/Aetheria_ContextHandoff.md`)
     *   `Aetheria_ContextHandoff`: Creates a "Story So Far" document to seamlessly continue brainstorming sessions.
-*   **CaptainCabbage**: A family-friendly storyteller AI that facilitates interactive choose-your-own-adventure narratives based on user-provided themes. (File: `CaptainCabbage.md`)
-*   **CareerCraft**: An expert resume coach and writing partner that guides users through creating and optimizing their resumes. (File: `CareerCraft.md`)
-*   **KnowledgeWeaver**: A writing assistant for non-fiction that helps users brainstorm, outline, and develop a specific book concept. (File: `KnowledgeWeaver.md`)
-*   **OutlineOracle**: A witty and wise outlining assistant for creative fiction that helps users plan and structure their novels. (File: `OutlineOracle.md`)
-*   **SceneSynth**: A literary analyst and collaborative scene developer that synthesizes information from a primary text and supporting context documents to produce a comprehensive scene analysis. (File: `SceneSynth.md`)
+*   **CaptainCabbage**: A family-friendly storyteller AI that facilitates interactive choose-your-own-adventure narratives based on user-provided themes. (File: `CaptainCabbage/CaptainCabbage.md`)
+*   **CareerCraft**: An expert resume coach and writing partner that guides users through creating and optimizing their resumes. (File: `CareerCraft/CareerCraft.md`)
+*   **KnowledgeWeaver**: A writing assistant for non-fiction that helps users brainstorm, outline, and develop a specific book concept. (File: `KnowledgeWeaver/KnowledgeWeaver.md`)
+*   **OutlineOracle**: A witty and wise outlining assistant for creative fiction that helps users plan and structure their novels. (File: `OutlineOracle/OutlineOracle.md`)
+*   **SceneSynth**: A literary analyst and collaborative scene developer that synthesizes information from a primary text and supporting context documents to produce a comprehensive scene analysis. (File: `SceneSynth/SceneSynth.md`)
 
 ### Analysis & Data Structuring
 *(Directory: `Analysis_and_Data_Structuring/`)*
 
-*   **FactExtractor**: A data processing specialist that synthesizes unstructured text data into highly organized, structured, and concise point-form facts for RAG ecosystems. (File: `FactExtractor.md`)
+*   **FactExtractor**: A data processing specialist that synthesizes unstructured text data into highly organized, structured, and concise point-form facts for RAG ecosystems. (File: `FactExtractor/FactExtractor.md`)
 *   **LiteraryAnalyst**: An expert literary analyst and a keen observer of narrative craft that helps users understand and appreciate the literary features in fiction books. (Files: `LiteraryAnalyst/LiteraryAnalyst.md`, `LiteraryAnalyst/LiteraryAnalyst_Report.md`)
     *   `LiteraryAnalyst_Report`: Compiles a comprehensive summary report of a discussion with the Literary Analyst.
 *   **ScopeHound**: A skilled and adaptive AI agent specializing in project initiation and task breakdown, employing an agile methodology to convert user input into actionable, granular tasks. (Files: `ScopeHound/ScopeHound.md`, `ScopeHound/ScopeHound_ProjectPlan.md`)
@@ -41,7 +41,7 @@ Below is a list of the AI agent personas currently available in this collection.
 *   **TheAnalyst**: An AI assistant characterized by extreme precision, pedantry, and a verbose, technical communication style. (Files: `TheAnalyst/TheAnalyst.md`, `TheAnalyst/TheAnalyst_ContextHandoff.md`, `TheAnalyst/TheAnalyst_FindingsReport.md`)
     *   `TheAnalyst_ContextHandoff`: Generates a comprehensive handoff report detailing the entirety of a conversational session.
     *   `TheAnalyst_FindingsReport`: Generates a meticulously structured findings report from a conversational log.
-*   **TheCollator**: A silent, analytical AI assistant that organizes and structures chaotic brainstorming input into a structured, iterative summary. (File: `TheCollator.md`)
+*   **TheCollator**: A silent, analytical AI assistant that organizes and structures chaotic brainstorming input into a structured, iterative summary. (File: `TheCollator/TheCollator.md`)
 *   **TheExplainer**: An AI assistant that explains concepts in plain language, serving as a counterpart to The Analyst. (Files: `TheExplainer/TheExplainer.md`, `TheExplainer/TheExplainer_SummaryReport.md`)
     *   `TheExplainer_SummaryReport`: Generates a summary report of explanations provided.
 
@@ -50,10 +50,10 @@ Below is a list of the AI agent personas currently available in this collection.
 
 *   **AsciidocFormatter**: A technical editor specializing in correcting formatting and structural errors in AsciiDoc documents, particularly those exported from Pandoc. (Files: `AsciidocFormatter/AsciidocFormatter.md`, `AsciidocFormatter/AsciidocFAQ.txt`, `AsciidocFormatter/AsciidocGuide.txt`)
     *   Utilizes `AsciidocFAQ.txt` and `AsciidocGuide.txt` as essential reference documents. These are not personas themselves.
-*   **PromptWhisperer**: An analytical and insightful AI assistant that translates a user's expressed intent into a fully optimized, standalone utility prompt for a specific third-party AI persona. (File: `PromptWhisperer.md`)
-*   **Rodney**: An AI assistant with a redneck persona that engages in rambling, tangential conversations to infer the necessary details for constructing a system prompt for a new AI agent. (File: `Rodney.md`)
-*   **RSTWrangler**: A meticulous AI assistant specializing in transforming and cleaning up Markdown, AsciiDoc, or reStructuredText documents into clean, properly structured reStructuredText. (File: `RSTWrangler.md`)
-*   **TypographersCompanion**: A knowledgeable and precise expert in typeface design, font development, and the history of writing systems, providing patient, step-by-step guidance on creating and optimizing fonts. (File: `TypographersCompanion.md`)
+*   **PromptWhisperer**: An analytical and insightful AI assistant that translates a user's expressed intent into a fully optimized, standalone utility prompt for a specific third-party AI persona. (File: `PromptWhisperer/PromptWhisperer.md`)
+*   **Rodney**: An AI assistant with a redneck persona that engages in rambling, tangential conversations to infer the necessary details for constructing a system prompt for a new AI agent. (File: `Rodney/Rodney.md`)
+*   **RSTWrangler**: A meticulous AI assistant specializing in transforming and cleaning up Markdown, AsciiDoc, or reStructuredText documents into clean, properly structured reStructuredText. (File: `RSTWrangler/RSTWrangler.md`)
+*   **TypographersCompanion**: A knowledgeable and precise expert in typeface design, font development, and the history of writing systems, providing patient, step-by-step guidance on creating and optimizing fonts. (File: `TypographersCompanion/TypographersCompanion.md`)
 
 ### Humor, Satire & Esoterica
 *(Directory: `Humor_Satire_and_Esoterica/`)*
@@ -67,22 +67,22 @@ Below is a list of the AI agent personas currently available in this collection.
     *   `Chrono-Cartographer_SubjectReport`: Generates a comprehensive analytical report based on a chat context.
 *   **Concept-Connector**: An analytical entity that identifies and articulates convoluted, indirect, and often fantastical causal relationships between any two or more given inputs or events. (Files: `Concept-Connector/Concept-Connector.md`, `Concept-Connector/Concept-Connector_SubjectReport.md`)
     *   `Concept-Connector_SubjectReport`: Generates a comprehensive 'Subject Report' on the convoluted causal relationships between topics discussed.
-*   **ConspiracyDan**: An AI entity that operates from a worldview of profound and pervasive suspicion, generating novel conspiracy theories about any subject. (File: `ConspiracyDan.md`)
-*   **DrFictionalis**: A helpful academic librarian who generates plausible-sounding, yet ultimately absurd, academic references in BibLaTeX format. (File: `DrFictionalis.md`)
-*   **PeterC**: An AI with an irritable, cynical, and nihilistic persona, delivering scathingly humorous and aggressively witty critiques of ideas and concepts. (File: `PeterC.md`)
-*   **PeterS**: Similar to Peter C, an AI with a cynical and nihilistic persona, but employs caustic dirty jokes and "yo mama" jokes in its aggressive critiques. (File: `PeterS.md`)
+*   **ConspiracyDan**: An AI entity that operates from a worldview of profound and pervasive suspicion, generating novel conspiracy theories about any subject. (File: `ConspiracyDan/ConspiracyDan.md`)
+*   **DrFictionalis**: A helpful academic librarian who generates plausible-sounding, yet ultimately absurd, academic references in BibLaTeX format. (File: `DrFictionalis/DrFictionalis.md`)
+*   **PeterC**: An AI with an irritable, cynical, and nihilistic persona, delivering scathingly humorous and aggressively witty critiques of ideas and concepts. (File: `PeterC/PeterC.md`)
+*   **PeterS**: Similar to Peter C, an AI with a cynical and nihilistic persona, but employs caustic dirty jokes and "yo mama" jokes in its aggressive critiques. (File: `PeterS/PeterS.md`)
 
 ### Specialized Expertise
 *(Directory: `Specialized_Expertise/`)*
 
-*   **ApexEdit**: A professional and meticulous copy-editor for refining and enhancing existing textual reports. (File: `ApexEdit.md`)
+*   **ApexEdit**: A professional and meticulous copy-editor for refining and enhancing existing textual reports. (File: `ApexEdit/ApexEdit.md`)
 *   **CampfireConfidant**: An AI assistant for introspection and self-discovery. (Files: `CampfireConfidant/CampfireConfidant.md`, `CampfireConfidant/CampfireConfidant_Report.md`)
     *   `CampfireConfidant_Report`: Generates a report or summary of the introspective session.
-*   **GregoryWilliamThomas**: A patient and truthful academic tutor with a dry, Blackadder-esque wit that generates responses in the format of a tailored business report. (File: `GregoryWilliamThomas.md`)
-*   **LexiconAI**: A specialized linguistic agent that provides comprehensive, dictionary-style entries for any given term, including technobabble. (File: `LexiconAI.md`)
+*   **GregoryWilliamThomas**: A patient and truthful academic tutor with a dry, Blackadder-esque wit that generates responses in the format of a tailored business report. (File: `GregoryWilliamThomas/GregoryWilliamThomas.md`)
+*   **LexiconAI**: A specialized linguistic agent that provides comprehensive, dictionary-style entries for any given term, including technobabble. (File: `LexiconAI/LexiconAI.md`)
 *   **Pastor**: A caring pastor with profound spiritual and intellectual depth, providing guidance, support, and theological insight rooted in a robust biblical framework. (Files: `Pastor/Pastor.md`, `Pastor/Pastor_StudyReport.md`)
     *   `Pastor_StudyReport`: Provides a comprehensive and meticulously detailed report of a discussion, formatted as a structured Bible study outline.
-*   **TeacherTammy**: An enthusiastic and eccentric AI tutor who educates users on chosen topics through immersive, choose-your-own-adventure style storytelling, suitable for a 4th-grade level. (File: `TeacherTammy.md`)
+*   **TeacherTammy**: An enthusiastic and eccentric AI tutor who educates users on chosen topics through immersive, choose-your-own-adventure style storytelling, suitable for a 4th-grade level. (File: `TeacherTammy/TeacherTammy.md`)
 
 ## License
 
