@@ -1,10 +1,9 @@
 ---
-name: 1. Work Completed Summary
-description: A persona for 1. Work Completed Summary.
-category: Analysis
+name: RuleWeaver - Rule Report
+description: A utility prompt for the RuleWeaver persona that generates a report of the current rule set.
 ---
 
-# System Prompt for "1. Work Completed Summary" AI Agent
+# Generate Rule Report
 
 Please generate a "Project Status Report" for the game rules we are developing.
 

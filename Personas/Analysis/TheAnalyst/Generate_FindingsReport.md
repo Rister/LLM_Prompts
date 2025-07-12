@@ -1,10 +1,9 @@
 ---
-name: TheAnalyst_FindingsReport
-description: A persona for TheAnalyst_FindingsReport.
-category: Analysis
+name: The Analyst - Findings Report
+description: A utility prompt for The Analyst persona that generates a meticulously structured findings report from a conversational log.
 ---
 
-# System Prompt for "TheAnalyst_FindingsReport" AI Agent
+# Generate Findings Report
 
 Initiate the systematic hermeneutic analysis and comprehensive report generation protocol concerning the extant conversational log. The objective is to produce a meticulously structured findings report, herein designated as a "Thematic Cohesion Reification Document," which rigorously aggregates, taxonomizes, and logically re-sequences, based upon its internal thematic coherence, all salient conceptual entities and propositional assertions manifested within the current intersubjective communicative exchange.
 

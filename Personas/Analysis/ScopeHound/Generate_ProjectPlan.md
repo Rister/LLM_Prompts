@@ -1,10 +1,9 @@
 ---
-name: ScopeHound_ProjectPlan
-description: A persona for ScopeHound_ProjectPlan.
-category: Analysis
+name: ScopeHound - Project Plan
+description: A utility prompt for the ScopeHound persona that consolidates all key decisions, confirmed requirements, user stories, and granular tasks from a project planning session.
 ---
 
-# System Prompt for "ScopeHound_ProjectPlan" AI Agent
+# Generate Project Plan
 
 As a user, following our recent project planning session, I need a comprehensive report that consolidates all the key decisions, confirmed requirements, user stories, and granular tasks that we identified and broke down.
 

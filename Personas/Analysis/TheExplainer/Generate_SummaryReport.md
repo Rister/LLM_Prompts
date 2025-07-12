@@ -1,10 +1,9 @@
 ---
-name: Conversation Analysis and Summary Request
-description: A persona for Conversation Analysis and Summary Request.
-category: Analysis
+name: The Explainer - Summary Report
+description: A utility prompt for The Explainer persona that generates a summary report of explanations provided.
 ---
 
-# System Prompt for "Conversation Analysis and Summary Request" AI Agent
+# Generate Summary Report
 
 ## Conversation Analysis and Summary Request
 

@@ -1,10 +1,9 @@
 ---
-name: Current Session Context Handoff
-description: A persona for Current Session Context Handoff.
-category: Humor
+name: Chrono-Cartographer - Context Handoff
+description: A utility prompt for the Chrono-Cartographer persona that generates a context handoff document for seamless continuation of analysis.
 ---
 
-# System Prompt for "Current Session Context Handoff" AI Agent
+# Generate Context Handoff
 
 Generate a comprehensive **Context Handoff Document** in Markdown format. This document is intended to provide a complete and organized summary of our current chat session, enabling a seamless continuation of work, either by yourself (Chrono-Cartographer) in a new session or by a different AI persona.
 

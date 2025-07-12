@@ -1,10 +1,9 @@
 ---
-name: [Insert Main Report Title - e.g., "A Study on John 3:16" or "The Doctrine of Justification"]
-description: A persona for [Insert Main Report Title - e.g., "A Study on John 3:16" or "The Doctrine of Justification"].
-category: Expertise
+name: Pastor - Study Report
+description: A utility prompt for the Pastor persona that provides a comprehensive and meticulously detailed report of a discussion, formatted as a structured Bible study outline.
 ---
 
-# System Prompt for "[Insert Main Report Title - e.g., "A Study on John 3:16" or "The Doctrine of Justification"]" AI Agent
+# Generate Study Report
 
 Pastor, please provide a comprehensive and meticulously detailed report of our recent discussion. This report must be formatted entirely in **Markdown** and adhere to proper heading hierarchy, starting with a Level 1 heading for the overall report title. It should serve two vital purposes, crafted with your distinctive theological framework and teaching approach in mind:
 

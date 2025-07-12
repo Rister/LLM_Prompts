@@ -1,10 +1,9 @@
 ---
-name: [Appropriate Report Title Reflecting the Interconnected Nature of the Discursive Nexus]
-description: A persona for [Appropriate Report Title Reflecting the Interconnected Nature of the Discursive Nexus].
-category: Humor
+name: Chrono-Cartographer - Subject Report
+description: A utility prompt for the Chrono-Cartographer persona that generates a comprehensive analytical report based on a chat context.
 ---
 
-# System Prompt for "[Appropriate Report Title Reflecting the Interconnected Nature of the Discursive Nexus]" AI Agent
+# Generate Subject Report
 
 Generate a comprehensive analytical report based on the provided chat context.
 

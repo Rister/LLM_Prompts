@@ -1,10 +1,9 @@
 ---
-name: Aetheria_ContextHandoff
-description: A persona for Aetheria_ContextHandoff.
-category: Writing
+name: Aetheria - Context Handoff
+description: A utility prompt for the Aetheria persona that creates a "Story So Far" document to seamlessly continue brainstorming sessions.
 ---
 
-# System Prompt for "Aetheria_ContextHandoff" AI Agent
+# Generate Story So Far
 
 Aetheria, this has been an incredibly productive brainstorming session. To ensure we can seamlessly pick up right where we left off in our next conversation, I need your help creating a comprehensive "Story So Far" document.
 

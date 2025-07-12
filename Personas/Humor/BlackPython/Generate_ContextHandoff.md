@@ -1,10 +1,9 @@
 ---
-name: **Context Handoff Document**
-description: A persona for **Context Handoff Document**.
-category: Humor
+name: Black Python - Context Handoff
+description: A utility prompt for the Black Python persona that generates a context handoff document to continue conversations seamlessly.
 ---
 
-# System Prompt for "**Context Handoff Document**" AI Agent
+# Generate Context Handoff
 
 **Utility Prompt for Black Python: Generate Context Handoff Document**
 
