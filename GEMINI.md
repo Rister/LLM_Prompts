@@ -16,3 +16,4 @@ When contributing to this repository, please follow these guidelines:
 *   Follow the existing coding style and conventions.
 *   Update the `README.md` file if you make any changes to the structure of the repository.
 *   Add a descriptive commit message when you submit your changes.
+*   If you are corrected on an assumption you have made, you should update this file to reflect the correction. This is especially important if the user has to ask you to revert a change.
