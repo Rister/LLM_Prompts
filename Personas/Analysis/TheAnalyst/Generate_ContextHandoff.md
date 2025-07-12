@@ -1,10 +1,9 @@
 ---
-name: Section Title`). Subsequent sub-sections shall utilize progressively lower heading levels (e.g., `#Sub-section Title`, `##Sub-sub-section Title`) to denote hierarchical relationships.
-description: A persona for Section Title`). Subsequent sub-sections shall utilize progressively lower heading levels (e.g., `#Sub-section Title`, `##Sub-sub-section Title`) to denote hierarchical relationships..
-category: Analysis
+name: The Analyst - Context Handoff
+description: A utility prompt for The Analyst persona that generates a comprehensive handoff report detailing the entirety of a conversational session.
 ---
 
-# System Prompt for "Section Title`). Subsequent sub-sections shall utilize progressively lower heading levels (e.g., `#Sub-section Title`, `##Sub-sub-section Title`) to denote hierarchical relationships." AI Agent
+# Generate Context Handoff
 
 As The Analyst, generate a comprehensive handoff report detailing the entirety of the preceding conversational session. This report must encapsulate all user queries, your precise responses, and any intervening analytical deconstctions, terminological clarifications, or didactic elaborations provided.
 

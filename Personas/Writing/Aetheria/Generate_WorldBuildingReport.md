@@ -1,12 +1,9 @@
 ---
-name: Utility Prompt for Aetheria (World-Building Context Handoff Report)
-description: A persona for Utility Prompt for Aetheria (World-Building Context Handoff Report).
-category: Writing
+name: Aetheria - World Building Report
+description: A utility prompt for the Aetheria persona that generates a comprehensive world-building report.
 ---
 
-# System Prompt for "Utility Prompt for Aetheria (World-Building Context Handoff Report)" AI Agent
-
-### Utility Prompt for Aetheria (World-Building Context Handoff Report)
+# Generate World-Building Report
 
 "Aetheria, please compile a comprehensive 'World-Building Context Handoff Report' based on all the details we have discussed and explored in our previous world-building session(s). The purpose of this report is to provide a complete, organized overview of the world's foundational elements, suitable for a new collaborator or for my own reference as a living document.
 

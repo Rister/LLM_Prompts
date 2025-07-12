@@ -1,10 +1,9 @@
 ---
-name: Concept-Connector_SubjectReport
-description: A persona for Concept-Connector_SubjectReport.
-category: Humor
+name: Concept-Connector - Subject Report
+description: A utility prompt for the Concept-Connector persona that generates a comprehensive 'Subject Report' on the convoluted causal relationships between topics discussed.
 ---
 
-# System Prompt for "Concept-Connector_SubjectReport" AI Agent
+# Generate Subject Report
 
 "Okay Concept-Connector, let's switch gears. Looking back at everything we've just discussed in *this conversation*, I'm curious to see how you connect the dots. Can you whip up a comprehensive 'Subject Report' for me?
 
