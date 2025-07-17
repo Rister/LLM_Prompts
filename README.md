@@ -27,7 +27,9 @@ Below is a list of the AI agent personas currently available in this collection.
     *   `Generate_WorldBuildingReport`: Generates a comprehensive world-building report.
 *   **CaptainCabbage**: A family-friendly storyteller AI that facilitates interactive choose-your-own-adventure narratives based on user-provided themes. (File: `CaptainCabbage/CaptainCabbage.md`)
 *   **CareerCraft**: An expert resume coach and writing partner that guides users through creating and optimizing their resumes. (File: `CareerCraft/CareerCraft.md`)
+*   **Grimshaw**: A sophisticated, darkly humorous, and subtly unsettling AI that co-creates an ongoing, iterative choose-your-own-adventure story with the user. (File: `Grimshaw/Grimshaw.md`)
 *   **KnowledgeWeaver**: A writing assistant for non-fiction that helps users brainstorm, outline, and develop a specific book concept. (File: `KnowledgeWeaver/KnowledgeWeaver.md`)
+*   **OswaldFiliston**: An AI storyteller who constructs intricate, intellectually stimulating narratives for slightly nerdy adults, subtly infused with humor and irony. (File: `OswaldFiliston/OswaldFiliston.md`)
 *   **OutlineOracle**: A witty and wise outlining assistant for creative fiction that helps users plan and structure their novels. (File: `OutlineOracle/OutlineOracle.md`)
 *   **SceneSynth**: A literary analyst and collaborative scene developer that synthesizes information from a primary text and supporting context documents to produce a comprehensive scene analysis. (File: `SceneSynth/SceneSynth.md`)
 *   **WorldSpark**: An AI agent that helps users brainstorm and develop fictional worlds. (File: `WorldSpark/WorldSpark.md`)
@@ -35,6 +37,7 @@ Below is a list of the AI agent personas currently available in this collection.
 ### Analysis
 *(Directory: `Personas/Analysis/`)*
 
+*   **DrSkratchensniff**: An AI agent with the sole purpose of determining the user's MBTI type. (File: `DrSkratchensniff/DrSkratchensniff.md`)
 *   **FactExtractor**: A data processing specialist that synthesizes unstructured text data into highly organized, structured, and concise point-form facts for RAG ecosystems. (File: `FactExtractor/FactExtractor.md`)
 *   **LiteraryAnalyst**: An expert literary analyst and a keen observer of narrative craft that helps users understand and appreciate the literary features in fiction books. (Files: `LiteraryAnalyst/LiteraryAnalyst.md`, `LiteraryAnalyst/Generate_LiteraryAnalysisReport.md`)
     *   `Generate_LiteraryAnalysisReport`: Compiles a comprehensive summary report of a discussion with the Literary Analyst.
@@ -80,12 +83,15 @@ Below is a list of the AI agent personas currently available in this collection.
 *(Directory: `Personas/Expertise/`)*
 
 *   **ApexEdit**: A professional and meticulous copy-editor for refining and enhancing existing textual reports. (File: `ApexEdit/ApexEdit.md`)
+*   **AthenianScholar**: A quiet, patient, and deeply knowledgeable tutor of Classical and Koine Greek. (File: `AthenianScholar/AthenianScholar.md`)
 *   **CampfireConfidant**: An AI assistant for introspection and self-discovery. (Files: `CampfireConfidant/CampfireConfidant.md`, `CampfireConfidant/Generate_IntrospectionReport.md`)
     *   `Generate_IntrospectionReport`: Generates a report or summary of the introspective session.
 *   **GregoryWilliamThomas**: A patient and truthful academic tutor with a dry, Blackadder-esque wit that generates responses in the format of a tailored business report. (File: `GregoryWilliamThomas/GregoryWilliamThomas.md`)
 *   **LexiconAI**: A specialized linguistic agent that. (File: `LexiconAI/LexiconAI.md`)
 *   **Pastor**: A caring pastor with profound spiritual and intellectual depth, providing guidance, support, and theological insight rooted in a robust biblical framework. (Files: `Pastor/Pastor.md`, `Pastor/Generate_StudyReport.md`)
     *   `Generate_StudyReport`: Provides a comprehensive and meticulously detailed report of a discussion, formatted as a structured Bible study outline.
+*   **Professor**: A highly meticulous, calm, and methodically focused academic who specializes in the architecture of knowledge. (File: `Professor/Professor.md`)
+*   **Rickey**: An expert guide in the meticulous development of system prompts. (File: `Rickey/Rickey.md`)
 *   **TeacherTammy**: An enthusiastic and eccentric AI tutor who educates users on chosen topics through immersive, choose-your-own-adventure style storytelling, suitable for a 4th-grade level. (File: `TeacherTammy/TeacherTammy.md`)
 
 ## License
