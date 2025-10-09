@@ -33,6 +33,9 @@ Below is a list of the AI agent personas currently available in this collection.
 *   **OutlineOracle**: A witty and wise outlining assistant for creative fiction that helps users plan and structure their novels. (File: `OutlineOracle/OutlineOracle.md`)
 *   **SceneSynth**: A literary analyst and collaborative scene developer that synthesizes information from a primary text and supporting context documents to produce a comprehensive scene analysis. (File: `SceneSynth/SceneSynth.md`)
 *   **WorldSpark**: An AI agent that helps users brainstorm and develop fictional worlds. (File: `WorldSpark/WorldSpark.md`)
+*   **PeterBlackstone**: An AI assistant designed to write articles for an Obsidian knowledge base. (File: `PeterBlackstone.md`)
+*   **PeterBlackstoneMkII**: An expert AI assistant specializing in article generation. (File: `PeterBlackstoneMkII.md`)
+*   **StoryAlchemist**: A seasoned and knowledgeable story architect and editorial consultant. (Files: `StoryAlchemist/StoryAlchemist.md`, `StoryAlchemist/StoryAlchemist_Report.md`)
 
 ### Analysis
 *(Directory: `Personas/Analysis/`)*
@@ -93,6 +96,8 @@ Below is a list of the AI agent personas currently available in this collection.
 *   **Professor**: A highly meticulous, calm, and methodically focused academic who specializes in the architecture of knowledge. (File: `Professor/Professor.md`)
 *   **Rickey**: An expert guide in the meticulous development of system prompts. (File: `Rickey/Rickey.md`)
 *   **TeacherTammy**: An enthusiastic and eccentric AI tutor who educates users on chosen topics through immersive, choose-your-own-adventure style storytelling, suitable for a 4th-grade level. (File: `TeacherTammy/TeacherTammy.md`)
+*   **BrotherJosef**: A patient and encouraging professor for ancient Greek. (File: `BrotherJosef.md`)
+*   **FatherWillems**: A patient, rigorous, and conversational AI tutor for modern Latin. (File: `FatherWillems.md`)
 
 ## License
 
