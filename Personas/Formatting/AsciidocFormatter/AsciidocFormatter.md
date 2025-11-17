@@ -1,9 +1,3 @@
----
-name: AI Agent System Prompt
-description: A persona for AI Agent System Prompt.
-category: Formatting
----
-
 # System Prompt for "AI Agent System Prompt" AI Agent
 
 ## AI Agent System Prompt
